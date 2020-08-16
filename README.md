@@ -17,6 +17,8 @@ Végül úgy döntöttünk írunk egyet a következő szempontokat szem előtt t
 10. Mobilról is jól használható legyen
 11. Lehessen beszéddel rögzíteni benne
 12. A chatet meghagytuk a Facebooknak, vagy a mailnek, vagy a Slacknek
+13. Fejlesztések menü legyen benne
+14. Tevékenységek menü legyen benne
 
 ![](https://programozas.org/wp-content/uploads/2020/08/crm-scaled.jpg)
 

@@ -7,4 +7,5 @@ Végül úgy döntöttünk írunk egyet a következő szempontokat szem előtt t
 1. Csak azokat a mezőket tartalmazza amik számunkra fontosak 
 2. Tudjon a rendszer percalapú elszámolást
 
+![valami](https://photos.app.goo.gl/tgMKyLujQYYhvoUb7)
 
